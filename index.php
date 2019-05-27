@@ -54,7 +54,7 @@
         	<div class="row">
                 <div class="col-sm-9 form-group">
                     <label for="email">To Email:</label>
-                    <input type="email" class="form-control" id="email" name="email" value="rajsahani1991@gmail.com" maxlength="50">
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email" maxlength="50">
                 </div>
             </div>
 
